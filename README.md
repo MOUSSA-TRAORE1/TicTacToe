@@ -157,6 +157,5 @@ Player X wins diagonally.
 MOUSSA TRAORE
 
 Computer Engineering Student
-Antalya Bilim University
 
 ---
